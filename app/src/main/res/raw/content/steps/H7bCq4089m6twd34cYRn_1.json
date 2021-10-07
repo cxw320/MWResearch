@@ -1,0 +1,1 @@
+{"title":"Pay with cash and card","stats_change":{"security":-5,"money":-65},"description":"You pay what you can in cash and put the rest on your credit card.","next":["RS1xIevx7rd4AxQ3pnaq"],"id":"H7bCq4089m6twd34cYRn_1","reference":"883_1","type":"decision","emotion":"neutral","required":{"money":65},"attachments":[]}
