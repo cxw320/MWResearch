@@ -3,10 +3,15 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/nav_graph"
-    app:startDestination="@id/lottieFragment">
+    app:startDestination="@id/introFragment">
 
     <fragment
         android:id="@+id/lottieFragment"
         android:name="com.example.mwresearch.LottieFragment"
         android:label="LottieFragment" />
+    <fragment
+        android:id="@+id/introFragment"
+        android:name="com.example.mwresearch.IntroFragment"
+        android:label="fragment_intro"
+        tools:layout="@layout/fragment_intro" />
 </navigation>
